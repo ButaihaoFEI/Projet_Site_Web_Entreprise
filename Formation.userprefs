@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C75116A4-CD9A-45B9-A10B-9595000D9B76}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Formation/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Formation/Controllers/HomeController.cs" Line="10" Column="2" />
+      <File FileName="Formation/Views/Home/Index.cshtml" Line="4" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Formation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

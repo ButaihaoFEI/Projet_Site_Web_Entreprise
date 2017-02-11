@@ -1,0 +1,12 @@
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/Formation.dll.mdb
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/Formation.dll
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/obj/Debug/Formation.dll
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/obj/Debug/Formation.dll.mdb
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/System.Web.Razor.dll
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/Microsoft.Web.Infrastructure.dll
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/System.Web.Helpers.dll
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/System.Web.WebPages.Deployment.dll
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/System.Web.WebPages.dll
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/System.Web.WebPages.Razor.dll
+/Users/butaihao/GitHub/Projet_Site_Web_Entreprise/Formation/Formation/bin/System.Web.Mvc.dll
